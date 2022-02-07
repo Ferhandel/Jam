@@ -75,6 +75,9 @@
 
      
        *Tabla sacada de Devil MayCry*
+       
+       Los combos se podrán efectuar si el jugador sigue el ritmo de la música y acierta a la hora de pulsar los botones que se necesitan para completar el combo.
+       Como en los juegos de lucha. 
 
              
    6. Arte.
