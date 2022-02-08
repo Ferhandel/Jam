@@ -71,7 +71,7 @@
          
        Combos: 
        
-       ![image](https://user-images.githubusercontent.com/67064836/152860999-0d5c7861-a3f1-45d1-9fa6-8705a564cd0d.png)
+![image](https://user-images.githubusercontent.com/67064836/152860999-0d5c7861-a3f1-45d1-9fa6-8705a564cd0d.png)
 
      
        *Tabla sacada de Devil MayCry*
@@ -86,7 +86,7 @@
      
      Ejemplo: Absolver. 
      
-     ![image](https://user-images.githubusercontent.com/67064836/152861288-e3c87d70-ccfc-4dfa-8adf-f9541c2b6e8c.png)
+ ![image](https://user-images.githubusercontent.com/67064836/152861288-e3c87d70-ccfc-4dfa-8adf-f9541c2b6e8c.png)
 
      Página de Steam: https://store.steampowered.com/app/473690/Absolver/
      
@@ -98,21 +98,21 @@
     *Inspirado sobre todo en el sistema musical de combos*
     
 
-    ![image](https://user-images.githubusercontent.com/67064836/152860204-9ef78742-ec76-46bd-80d2-e3f70f2b7c3a.png)
+![image](https://user-images.githubusercontent.com/67064836/152860204-9ef78742-ec76-46bd-80d2-e3f70f2b7c3a.png)
      
     Página de steam: https://store.steampowered.com/agecheck/app/228300/?l=spanish
     
     
     *Inspirado en el combate sencillo* 
     
-    ![image](https://user-images.githubusercontent.com/67064836/152860611-5771bc6c-9cbd-49b6-99e4-6127dd4395d8.png)
+![image](https://user-images.githubusercontent.com/67064836/152860611-5771bc6c-9cbd-49b6-99e4-6127dd4395d8.png)
 
 
     Página de steam: https://store.steampowered.com/app/504370/Battlerite/?l=spanish
     
     *Inspirado en los combos*
     
-    ![image](https://user-images.githubusercontent.com/67064836/152861121-3180e71a-0b27-47a4-aa25-18628b8b5773.png)
+![image](https://user-images.githubusercontent.com/67064836/152861121-3180e71a-0b27-47a4-aa25-18628b8b5773.png)
 
     Página de steam: https://store.steampowered.com/agecheck/app/220440/?l=spanish
     
